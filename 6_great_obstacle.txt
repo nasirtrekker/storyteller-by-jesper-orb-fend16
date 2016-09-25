@@ -1,0 +1,1 @@
+"Gasp! An unclosed curly bracket! This could ruin everything!{"
